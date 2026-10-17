@@ -311,7 +311,6 @@ st.plotly_chart(
 
 st.caption(
     "A custódia é uma posição de fim de ano, não um fluxo anual. "
-    "Os valores não devem ser somados entre os anos."
 )
 
 # =====================================================
